@@ -5,15 +5,15 @@
 .main_content h2 {
     font-size: 32px;
     font-weight: 600;
-    margin-bottom: 24px;
     text-align: center;
+    margin-bottom: 24px;
 }
 
 .main_content>p {
     font-size: 16px;
     font-weight: 400;
-    margin-bottom: 40px;
     text-align: center;
+    margin-bottom: 40px;
 }
 
 .main_content .inner {
@@ -24,10 +24,11 @@
     flex: 1;
 }
 
-.main_content .inneritm p {
+.main_content .inner .itm p {
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
     text-align: center;
     margin-top: 32px;
+
 }
